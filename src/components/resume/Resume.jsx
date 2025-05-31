@@ -35,21 +35,20 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Software Developer
+                  Full Stack Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Company Name
+                  Tech-Fusion Technologies
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2023 - Present
+                  Jul 2020 - Jul 2024
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                  Design user interactions and structures for web pages, enhancing user engagement.
+                  Develop APIs and reusable code, improving software efficiency and maintainability.
+                  Collaborate with graphic designers, ensuring cohesive and consistent brand design.
+                  Troubleshoot and upgrade software, resolving issues and optimizing performance.
+                  Create technical documentation, aiding in clear communication and project reporting.
                 </p>
               </div>
             </div>
@@ -73,13 +72,13 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  B.Tech, Computer Science
+                  Cyber Security (Post Graduate Certificate)
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  College Name
+                  Durham College (CANADA, ON)
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2023 - Year 2027
+                  Sept 2024 - sept 2025
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.

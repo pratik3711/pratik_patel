@@ -1,5 +1,5 @@
 import React from "react";
-import myPhoto from '../../assets/my-photo.jpg';
+import myPhoto from '../../assets/pratik3.png';
 import {
   AiFillTwitterCircle,
   AiFillGithub,
@@ -9,7 +9,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Resume.pdf";
+import resumePDF from "../../assets/Resume_pratik.pdf";
 
 
 const Hero = () => {
@@ -105,7 +105,7 @@ const Hero = () => {
           <div className="relative h-[88%] w-fit flex items-center sm:items-end">
             <img
             data-aos="fade-up"
-              className="w-[600px] h-[500px] rounded-full object-cover md:mx-auto shadow-3xl ring-indigo-300"
+              className="w-[500px] h-[600px] rounded-full object-cover md:mx-auto shadow-3xl ring-indigo-300"
               src={myPhoto}
               // src={mine}
               alt="Pratik"

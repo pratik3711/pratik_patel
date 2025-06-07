@@ -109,7 +109,7 @@ const NavBar = ({ toggleDarkMode, darkMode }) => {
               href=""
               className="bg-black text-[1rem] text-white px-8 py-2 rounded-lg font-bold hover:text-yellow-400 md:m-5 md:block md:mx-auto md:w-fit lg:px-3"
             >
-              HIRE ME
+              Let's Collaborate
             </a>
           </ul>
         </div>

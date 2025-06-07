@@ -1,5 +1,5 @@
 import React from "react";
-import myPhoto from '../../assets/pratik5.jpg';
+import myPhoto from '../../assets/pratik1.png';
 import {
   AiFillTwitterCircle,
   AiFillGithub,
@@ -105,7 +105,7 @@ const Hero = () => {
           <div className="relative h-[88%] w-fit flex items-center sm:items-end">
             <img
             data-aos="fade-up"
-              className="w-[500px] h-[500px] rounded-full object-cover md:mx-auto shadow-5xl ring-indigo-300"
+              className="w-[500px] h-[500px] rounded-full object-cover md:mx-auto shadow-3xl ring-indigo-300"
               src={myPhoto}
               // src={mine}
               alt="Pratik"

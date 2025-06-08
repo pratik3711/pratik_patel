@@ -81,12 +81,11 @@ const Resume = () => {
                   Sept 2024 - sept 2025
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                graduate in Cybersecurity from Durham College, Canada, 
+                with hands-on experience in network security, threat analysis, and ethical hacking. 
+                Skilled in identifying vulnerabilities, implementing security protocols, 
+                and using industry-standard tools such as Wireshark, Metasploit, and Splunk. 
+                Passionate about protecting digital assets and staying current with emerging cyber threats.
                 </p>
               </div>
             </div>

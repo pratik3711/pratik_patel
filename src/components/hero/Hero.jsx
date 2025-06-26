@@ -1,5 +1,5 @@
 import React from "react";
-import myPhoto from '../../assets/pratik.png';
+import myPhoto from '../../assets/pratik2.jpg';
 import {
   AiFillTwitterCircle,
   AiFillGithub,

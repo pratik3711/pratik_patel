@@ -51,6 +51,23 @@ const Resume = () => {
                   Create technical documentation, aiding in clear communication and project reporting.
                 </p>
               </div>
+               {/* design */}
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Web-App Development
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  IIHT Navsari
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  Jul 2021 - Jul 2022
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                 Completed a professional course covering front-end and back-end web development technologies. 
+                 Gained hands-on experience in HTML, CSS, JavaScript, React, Node.js, and database integration. 
+                 Developed responsive web applications and participated in live projects, enhancing skills in full-stack development and modern web frameworks.
+                </p>
+              </div>
             </div>
           </fieldset>
         </div>
@@ -78,7 +95,7 @@ const Resume = () => {
                   Durham College (CANADA, ON)
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Sept 2024 - sept 2025
+                  Sept 2024 - Sept 2025
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
                 graduate in Cybersecurity from Durham College, Canada, 
@@ -86,6 +103,42 @@ const Resume = () => {
                 Skilled in identifying vulnerabilities, implementing security protocols, 
                 and using industry-standard tools such as Wireshark, Metasploit, and Splunk. 
                 Passionate about protecting digital assets and staying current with emerging cyber threats.
+                </p>
+              </div>
+               {/* design */}
+              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Bachelor of Engineering(BE) in Computer Engineering
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  S S Agrawal College (India, Navsari)
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  Jun 2017 - Jul 2021
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-500">
+                  Completed a four-year undergraduate program with a strong foundation in computer science, programming, and engineering principles. 
+                  Gained hands-on experience in software development, data structures, algorithms, database systems, and networking. 
+                  Participated in academic projects and seminars focused on emerging technologies. 
+                  Developed strong problem-solving and analytical skills applicable to real-world IT and engineering challenges.
+                </p>
+              </div>
+               {/* design */}
+              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  12th Science from GHSEB Board
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Naranlala Higher Secondary School (India, Navsari)
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  Mar 2015 - Mar 2017
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-500">
+                Completed 12th grade with a focus on Physics, Chemistry, Mathematics, and English. 
+                Built a strong academic foundation in scientific and analytical concepts, preparing for further studies in engineering and technology.
+
+
                 </p>
               </div>
             </div>

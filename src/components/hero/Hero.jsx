@@ -9,8 +9,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "<div styleName={} />
-import resume from "../assets/Pratik-Patel-CV.Updated.pdf";
+import resume from "../../assets/Pratik-Patel-CV.Updated.pdf";
 
 
 const Hero = () => {

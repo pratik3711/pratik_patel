@@ -35,6 +35,23 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                   FC Associate (Sort Center)
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Amazon, Ontario, Canada
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  Oct 2025 - Present
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                  Responsible for accurately sorting and organizing packages based on destination routes
+                  using internal systems. Contributed to efficient logistics operations by ensuring timely
+                  processing and maintaining high accuracy standards in a fast-paced environment.
+                </p>
+              </div>
+              {/* design */}
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
                   Full Stack Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
@@ -85,6 +102,25 @@ const Resume = () => {
                 <div className="c1 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
                 <div className="line w-[230px] bg-gray-300 h-[2px] sm:w-[250px]"></div>
                 <div className="c2 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
+              </div>
+              {/* design */}
+              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Artificial Intelligence Analysis, Design & Implementation (Post Graduate Certificate)
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Durham College (CANADA, ON)
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  Sept 2025 - Present
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-500">
+                Currently pursuing a Post Graduate Certificate in Artificial Intelligence Analysis, 
+                Design & Implementation at Durham College, with a focus on machine learning, 
+                data analytics, and AI-driven solutions. 
+                Developing practical expertise in designing and implementing 
+                intelligent systems to solve real-world problems.
+                </p>
               </div>
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
